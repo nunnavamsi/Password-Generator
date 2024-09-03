@@ -9,8 +9,8 @@ This app helps to create strong random passwords which can be easily used during
 
 ****Used Technologies****
 -HTML5\
--CSS3
--JavaScript
+-CSS3\
+-JavaScript\
 
 
 ****Functionalities****
