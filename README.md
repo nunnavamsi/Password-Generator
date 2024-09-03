@@ -8,7 +8,7 @@ Password Generator App written in HTML, CSS, and JavaScript .
 This app helps to create strong random passwords which can be easily used during authentication.
 
 ****Used Technologies****
--HTML5
+-HTML5\
 -CSS3
 -JavaScript
 
