@@ -3,6 +3,12 @@
 Password Generator App written in HTML, CSS, and JavaScript .
 
 
+***screenshots:***
+![image](https://github.com/user-attachments/assets/901a03ea-1b50-4882-85c2-a2e3d0365c9d)
+
+
+
+
 ****Use of the Project:****
 
 This app helps to create strong random passwords which can be easily used during authentication.
@@ -35,8 +41,6 @@ The strength check is based on the following criteria:
 This is a minor feature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
 
 
-***screenshots:***
-![image](https://github.com/user-attachments/assets/901a03ea-1b50-4882-85c2-a2e3d0365c9d)
 
 
 
