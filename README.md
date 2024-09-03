@@ -1,4 +1,4 @@
-*****Password Generator App *****
+*****Password Generator APP *****
 
 Password Generator App written in HTML, CSS, and JavaScript .
 
