@@ -1,9 +1,7 @@
 *******PASSWORD GENERATOR APP*******
 
-Password Generator App written in HTML, CSS, and JavaScript .
+-Password Generator App written in HTML, CSS, and JavaScript .
 
-
-***screenshots:***
 ![image](https://github.com/user-attachments/assets/901a03ea-1b50-4882-85c2-a2e3d0365c9d)
 
 
